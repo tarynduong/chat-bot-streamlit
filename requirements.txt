@@ -1,0 +1,6 @@
+PyPDF2
+langchain
+streamlit
+trulens_eval
+dotenv
+openai
