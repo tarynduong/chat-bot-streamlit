@@ -28,7 +28,7 @@ Step 7: Map the returned Vector Embeddings to the text chunks that represent the
 
 Step 8: Pass a question together with the retrieved context text chunks to the LLM via prompt. Instruct the LLM to only use the provided context to answer the given question, if there is no data in the retrieved context that could be used, make sure that no made up answer is provided.
 
-**:wrench: Features**
+**:high_brightness: Features**
 - Langchain: a framework for developing applications powered by language models
 - Azure OpenAI API: text embedding, GPT model (gpt-35-turbo-16k) to generate answers to user's queries
 - FAISS: leverage similarity search and clustering of dense vectors
