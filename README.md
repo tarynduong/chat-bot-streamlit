@@ -8,7 +8,7 @@ Because:
 - The data contained in your internal systems of interest might have not been used when training the LLM. It might be too recent and not available when the model was trained. Or it could be private and not available publicly on the internet. At the time of writing only data up until September 2021 is included in training of OpenAI GPT-3.5 and GPT-4 models.
 - Currently available LLMs have been shown to produce hallucinations inventing data that is not true.
 
-**What is an easy to implement alternative?**
+**What is an easy way to implement alternative?**
 
 Build your own chatbot to answer questions only using knowledge in your internal systems or of organization, in the form of PDF, PPT, DOCX documents.
 
